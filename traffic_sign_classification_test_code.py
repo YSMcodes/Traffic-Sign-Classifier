@@ -3,7 +3,7 @@ import cv2
 from keras.models import load_model
 
 # Load trained model (assumes .h5 format)
-model_path = r"Desktop\model_trained.h5"
+model_path = #Enter file path
 model = load_model(model_path)
 
 # Constants
